@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "name": "adsMalawi - an Online Shopping Website",
+        "image": "images/adsmalawi_screenshot.png",
+        "url": "http://www.adsmalawi.com/",
+        "items": [
+            {
+                "name": "Web Development",
+                "url": "#"
+            },
+            {
+                "name": "Business",
+                "url": "#"
+            },
+            {
+                "name": "Ecommerce",
+                "url": "#"
+            }
+        ]
+    }
+]

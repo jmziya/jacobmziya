@@ -6,7 +6,7 @@ publishDir = "docs"
 
 [params]
     name = "Jacob Mziya"
-    description = "Web Developer"
+    description = "Web Developer | Writer | Social Media Marketer"
     email = "jacobmziya@gmail.com"
     phone = "+265 999 478 629"
     address = "Area 15, Lilongwe, Malawi, Africa"
@@ -32,7 +32,7 @@ publishDir = "docs"
     weight = 1
 [[menu.main]]
     name = "blog"
-    url = "/post/"
+    url = "/posts/"
     weight = 5
 
 [params.disqus]
