@@ -13,13 +13,13 @@ publishDir = "docs"
     year = 2018
     background = ""
     favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
+    DateForm = "January 1, 2006"
 
     showSubheader = true
     showServices = true
     showRecentWorks = true
-    showDownload = true
-    showClients = true
+    showDownload = false
+    showClients = false
 
     footerEnableContact = true
     footerEnableFollowme = true
