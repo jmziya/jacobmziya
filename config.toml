@@ -1,8 +1,12 @@
-baseURL = "https://lucid-gates-dcfaea.netlify.com"
+baseURL = "http://lucid-gates-dcfaea.netlify.com"
 languageCode = "en-us"
 title = "Jacob Mziya"
 theme = "initio"
 publishDir = "docs"
+
+# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs. See the "URL Management" page
+relativeURLs = true
+canonifyURLs = true
 
 [params]
     name = "Jacob Mziya"
