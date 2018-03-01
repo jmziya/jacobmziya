@@ -2,7 +2,7 @@
 title = "Web Hosting"
 +++
 
-We give you hosting services from as low as USD35.00 (with 3 websites).
+I will  give you hosting services from as low as USD50.00 (with a free domain).
 
 <!--more-->
 
