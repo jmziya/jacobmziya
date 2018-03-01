@@ -1,4 +1,4 @@
-baseURL = "https://localhost/"
+baseURL = "https://lucid-gates-dcfaea.netlify.com"
 languageCode = "en-us"
 title = "Jacob Mziya"
 theme = "initio"
