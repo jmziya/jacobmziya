@@ -2,6 +2,6 @@
   HUGO_VERSION = "0.37"
 
 [build]
-  base    = "http://lucid-gates-dcfaea.netlify.com/"
+  baseURL = "http://lucid-gates-dcfaea.netlify.com/"
   publish = "docs"
   command = "hugo"
