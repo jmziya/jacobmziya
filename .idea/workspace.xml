@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af6e55b7-8520-4a86-8ecf-897189a7d84e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/about/index.html" afterPath="$PROJECT_DIR$/docs/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/index.html" afterPath="$PROJECT_DIR$/docs/categories/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/index.xml" afterPath="$PROJECT_DIR$/docs/categories/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" afterPath="$PROJECT_DIR$/docs/categories/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.xml" afterPath="$PROJECT_DIR$/docs/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/posts/index.html" afterPath="$PROJECT_DIR$/docs/posts/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/posts/index.xml" afterPath="$PROJECT_DIR$/docs/posts/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" afterPath="$PROJECT_DIR$/docs/posts/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/posts/vivamus-lacus-mauris/index.html" afterPath="$PROJECT_DIR$/docs/posts/vivamus-lacus-mauris/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/service/domain_registration/index.html" afterPath="$PROJECT_DIR$/docs/service/domain_registration/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/service/index.html" afterPath="$PROJECT_DIR$/docs/service/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/service/index.xml" afterPath="$PROJECT_DIR$/docs/service/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/service/page/1/index.html" afterPath="$PROJECT_DIR$/docs/service/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/service/social_media_advertsing/index.html" afterPath="$PROJECT_DIR$/docs/service/social_media_advertsing/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/service/web_development/index.html" afterPath="$PROJECT_DIR$/docs/service/web_development/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/service/web_hosting/index.html" afterPath="$PROJECT_DIR$/docs/service/web_hosting/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sitemap.xml" afterPath="$PROJECT_DIR$/docs/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/index.html" afterPath="$PROJECT_DIR$/docs/tags/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/index.xml" afterPath="$PROJECT_DIR$/docs/tags/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" afterPath="$PROJECT_DIR$/docs/tags/page/1/index.html" />
-    </list>
+    <list default="true" id="af6e55b7-8520-4a86-8ecf-897189a7d84e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -365,12 +343,12 @@
       <workItem from="1519801564602" duration="26000" />
       <workItem from="1519874071794" duration="254000" />
       <workItem from="1519894291516" duration="5054000" />
-      <workItem from="1520425422767" duration="1484000" />
+      <workItem from="1520425422767" duration="2620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14311000" />
+    <option name="totallyTimeSpent" value="15447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
