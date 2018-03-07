@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/localhost/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/localhost/posts/vivamus-lacus-mauris/</loc>
+    <lastmod>2018-02-27T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/localhost/service/domain_registration/</loc>
+  </url>
+  
+  <url>
+    <loc>/localhost/</loc>
+    <lastmod>2018-02-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/localhost/posts/</loc>
+    <lastmod>2018-02-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/localhost/service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/localhost/service/social_media_advertsing/</loc>
+  </url>
+  
+  <url>
+    <loc>/localhost/service/web_development/</loc>
+  </url>
+  
+  <url>
+    <loc>/localhost/service/web_hosting/</loc>
+  </url>
+  
+</urlset>

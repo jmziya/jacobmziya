@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Jacob Mziya</title>
+    <link>localhost:1313/service/</link>
+    <description>Recent content in Services on Jacob Mziya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="localhost:1313/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Domain Registration</title>
+      <link>localhost:1313/service/domain_registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/service/domain_registration/</guid>
+      <description>&lt;p&gt;Register your domain name from as low as USD10.00 or for USD35.00 (with free hosting) /year&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Social Media Advertising</title>
+      <link>localhost:1313/service/social_media_advertsing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/service/social_media_advertsing/</guid>
+      <description>&lt;p&gt;Facebook Business &amp;amp; Instagram is my playground.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>localhost:1313/service/web_development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/service/web_development/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think web development is difficult. It is not. You just need to love it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web Hosting</title>
+      <link>localhost:1313/service/web_hosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/service/web_hosting/</guid>
+      <description>&lt;p&gt;I will  give you hosting services from as low as USD50.00 (with a free domain).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
