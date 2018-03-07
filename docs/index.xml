@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob Mziya</title>
-    <link>localhost:1313/</link>
+    <link>http://lucid-gates-dcfaea.netlify.com/</link>
     <description>Recent content on Jacob Mziya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Feb 2018 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lucid-gates-dcfaea.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>localhost:1313/about/</link>
+      <link>http://lucid-gates-dcfaea.netlify.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/about/</guid>
+      <guid>http://lucid-gates-dcfaea.netlify.com/about/</guid>
       <description>Hie, my name is Jacob Mziya. Freelancer, &amp;amp; a Full-time Software Developer with Baobab Health Trust Organisation, Malawi. I have a beautiful wife and a chubby cute daughter. I don&amp;rsquo;t have a pet yet though. I develop web applications for fun and analyse various system applications. I write short stories, motivational &amp;amp; inspirational articles, and sometimes, I just write for the sake of writing.
 Contact Details Cell #: +265 (0) 999 478 629, email: jacobmziya@gmail.</description>
     </item>
     
     <item>
       <title>Who Will You Inspire?</title>
-      <link>localhost:1313/posts/vivamus-lacus-mauris/</link>
+      <link>http://lucid-gates-dcfaea.netlify.com/posts/vivamus-lacus-mauris/</link>
       <pubDate>Tue, 27 Feb 2018 12:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/vivamus-lacus-mauris/</guid>
+      <guid>http://lucid-gates-dcfaea.netlify.com/posts/vivamus-lacus-mauris/</guid>
       <description>Inspire someone today.
 Change their lives without even knowing you are doing so.
 Inspiration comes in various ways. They may be inspired simply because they saw you help out an old lady cross the road. Maybe because they saw you pick up a coke can on the roads and put it in the street trash bin. Who said you have to speak out loud to inspire a soul?
@@ -35,10 +35,10 @@ Just by writing this simple short article someone else will get inspired.</descr
     
     <item>
       <title>Domain Registration</title>
-      <link>localhost:1313/service/domain_registration/</link>
+      <link>http://lucid-gates-dcfaea.netlify.com/service/domain_registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/service/domain_registration/</guid>
+      <guid>http://lucid-gates-dcfaea.netlify.com/service/domain_registration/</guid>
       <description>&lt;p&gt;Register your domain name from as low as USD10.00 or for USD35.00 (with free hosting) /year&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -46,10 +46,10 @@ Just by writing this simple short article someone else will get inspired.</descr
     
     <item>
       <title>Social Media Advertising</title>
-      <link>localhost:1313/service/social_media_advertsing/</link>
+      <link>http://lucid-gates-dcfaea.netlify.com/service/social_media_advertsing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/service/social_media_advertsing/</guid>
+      <guid>http://lucid-gates-dcfaea.netlify.com/service/social_media_advertsing/</guid>
       <description>&lt;p&gt;Facebook Business &amp;amp; Instagram is my playground.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -57,10 +57,10 @@ Just by writing this simple short article someone else will get inspired.</descr
     
     <item>
       <title>Web Development</title>
-      <link>localhost:1313/service/web_development/</link>
+      <link>http://lucid-gates-dcfaea.netlify.com/service/web_development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/service/web_development/</guid>
+      <guid>http://lucid-gates-dcfaea.netlify.com/service/web_development/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think web development is difficult. It is not. You just need to love it.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -68,10 +68,10 @@ Just by writing this simple short article someone else will get inspired.</descr
     
     <item>
       <title>Web Hosting</title>
-      <link>localhost:1313/service/web_hosting/</link>
+      <link>http://lucid-gates-dcfaea.netlify.com/service/web_hosting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/service/web_hosting/</guid>
+      <guid>http://lucid-gates-dcfaea.netlify.com/service/web_hosting/</guid>
       <description>&lt;p&gt;I will  give you hosting services from as low as USD50.00 (with a free domain).&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

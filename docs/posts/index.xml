@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jacob Mziya</title>
-    <link>localhost:1313/posts/</link>
+    <link>http://lucid-gates-dcfaea.netlify.com/posts/</link>
     <description>Recent content in Posts on Jacob Mziya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Feb 2018 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lucid-gates-dcfaea.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who Will You Inspire?</title>
-      <link>localhost:1313/posts/vivamus-lacus-mauris/</link>
+      <link>http://lucid-gates-dcfaea.netlify.com/posts/vivamus-lacus-mauris/</link>
       <pubDate>Tue, 27 Feb 2018 12:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/vivamus-lacus-mauris/</guid>
+      <guid>http://lucid-gates-dcfaea.netlify.com/posts/vivamus-lacus-mauris/</guid>
       <description>Inspire someone today.
 Change their lives without even knowing you are doing so.
 Inspiration comes in various ways. They may be inspired simply because they saw you help out an old lady cross the road. Maybe because they saw you pick up a coke can on the roads and put it in the street trash bin. Who said you have to speak out loud to inspire a soul?
