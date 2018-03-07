@@ -2,7 +2,7 @@ baseURL = "http://lucid-gates-dcfaea.netlify.com/"
 languageCode = "en-us"
 title = "Jacob Mziya"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = "Jacob Mziya"
