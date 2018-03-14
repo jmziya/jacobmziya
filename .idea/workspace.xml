@@ -2,7 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af6e55b7-8520-4a86-8ecf-897189a7d84e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/about/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/categories/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/categories/index.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/IMG_20160513_160315_713.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/adsmalawi_screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/avatar_man.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/avatar_woman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/bg_head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/corner_guy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/deskboy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/gt_favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/guy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/know_house_head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/lamp_head.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/laptop_2_head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/laptop_head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/mac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/own-guy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/sample_clients.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/images/zulay_head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/index.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/js/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/posts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/posts/index.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/posts/vivamus-lacus-mauris/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/service/domain_registration/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/service/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/service/index.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/service/page/1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/service/social_media_advertsing/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/service/web_development/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/service/web_hosting/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/tags/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/tags/index.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hugo-initio/static/css/styles.css" afterPath="$PROJECT_DIR$/themes/hugo-initio/static/css/styles.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +62,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="130">
-                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -26,11 +70,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/hugo-initio/layouts/partials/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="234">
+              <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-initio/static/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="821" column="26" lean-forward="true" selection-start-line="821" selection-start-column="26" selection-end-line="821" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -40,13 +94,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>First Name</find>
       <find>b</find>
       <find>bg</find>
       <find>bg_</find>
       <find>bg_he</find>
       <find>bg_hea</find>
-      <find>bg_head</find>
       <find>ur</find>
       <find>url</find>
       <find>u</find>
@@ -64,6 +116,14 @@
       <find>guy.jpo</find>
       <find>guy.jp</find>
       <find>guy.jpg</find>
+      <find>.</find>
+      <find>.jpg</find>
+      <find>.jp</find>
+      <find>h</find>
+      <find>he</find>
+      <find>head</find>
+      <find>bg_head</find>
+      <find>head.jp</find>
     </findStrings>
     <replaceStrings>
       <replace>base</replace>
@@ -91,6 +151,7 @@
         <option value="$PROJECT_DIR$/themes/hugo-initio/layouts/partials/header.html" />
         <option value="$PROJECT_DIR$/themes/hugo-initio/layouts/partials/home.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/themes/hugo-initio/static/css/styles.css" />
       </list>
     </option>
   </component>
@@ -197,33 +258,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hugo-initio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -397,23 +436,25 @@
       <workItem from="1520425422767" duration="5954000" />
       <workItem from="1520494853621" duration="426000" />
       <workItem from="1520885774179" duration="2289000" />
-      <workItem from="1521035887528" duration="1571000" />
+      <workItem from="1521035887528" duration="2595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23067000" />
+    <option name="totallyTimeSpent" value="24091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27884614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3382508" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3382508" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -421,7 +462,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -459,6 +499,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -610,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netlify.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -677,7 +711,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="130">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -686,8 +720,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-initio/layouts/partials/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="234">
+          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netlify.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-initio/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="821" column="26" lean-forward="true" selection-start-line="821" selection-start-column="26" selection-end-line="821" selection-end-column="26" />
           <folding />
         </state>
       </provider>
