@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af6e55b7-8520-4a86-8ecf-897189a7d84e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="af6e55b7-8520-4a86-8ecf-897189a7d84e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +223,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zalusoarts" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -390,12 +386,12 @@
       <workItem from="1520494853621" duration="426000" />
       <workItem from="1520885774179" duration="2289000" />
       <workItem from="1521035887528" duration="3379000" />
-      <workItem from="1521305096323" duration="516000" />
+      <workItem from="1521305096323" duration="1304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25391000" />
+    <option name="totallyTimeSpent" value="26179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
