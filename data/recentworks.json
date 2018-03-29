@@ -18,5 +18,49 @@
                 "url": "#"
             }
         ]
+    },
+    {
+        "id": 1,
+        "name": "New Chigombe Bricks",
+        "image": "images/new_chigombe_screenshot.png",
+        "url": "http://www.newchigombebricks.com/",
+        "items": [
+            {
+                "name": "Web Hosting",
+                "url": "#"
+            },
+            {
+                "name": "Email Hosting",
+                "url": "#"
+            },
+            {
+                "name": "Domain Registration",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "HashTag Sitalia",
+        "image": "",
+        "url": "http://www.hashtagsitalia.com/",
+        "items": [
+            {
+                "name": "Web Development",
+                "url": "#"
+            },
+            {
+                "name": "Web Hosting",
+                "url": "#"
+            },
+            {
+                "name": "Email Hosting",
+                "url": "#"
+            },
+            {
+                "name": "Domain Registration",
+                "url": "#"
+            }
+        ]
     }
 ]

@@ -23,17 +23,21 @@ publishDir = "public"
 
     footerEnableContact = true
     footerEnableFollowme = true
-    footerEnableTextWidget = true
-    footerEnableFormWidget = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
 
 [[menu.main]]
     name = "home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "blog"
-    url = "/posts/"
-    weight = 5
+    name = "Technology"
+    url = "/technology/"
+    weight = 2
+[[menu.main]]
+    name = "Personal Development"
+    url = "/personal_development/"
+    weight = 3
 
 [params.disqus]
     site = ""
