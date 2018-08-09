@@ -1,9 +1,9 @@
 +++
-title = "Domain Registration"
+title = "Domain Reg"
 +++
 
-Register your domain name from as low as USD10.00 or for USD35.00 (with free hosting) /year
+Get a domain name for **_MwK 15,000.00/year_**
 
 <!--more-->
 
-You can get a domain name from me, registered for as low as USD10.00 /year (domain-package-1) or for USD35.00 /year (domain-package-2). Domain package 2 comes with free hosting on a Shared Server for a whole full 1 year.
+Current domain levels available include: .com, .net, .org, .online, e.t.c
