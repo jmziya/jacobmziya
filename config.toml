@@ -36,7 +36,7 @@ publishDir = "public"
     weight = 3
 
 [params.disqus]
-    site = ""
+    site = "jacobmziya"
 
 [params.sharethis]
     property = "123456789012345678901234"
