@@ -1,5 +1,5 @@
 +++
-title = "Social Media Advertising"
+title = "Social Media"
 +++
 
 Facebook Business & Instagram is my playground.
