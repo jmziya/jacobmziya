@@ -2,8 +2,14 @@
 title = "Web Development"
 +++
 
-I don't think web development is difficult. It is not. You just need to love it.
+I use Hugo Framework for Statics websites and Ruby on Rails for Dynamic & Complex Web Applications
 
 <!--more-->
 
-Well, I develop websites and web applications so that you don't have to. Let me give you the best experience by far.
+# Static Websites
+
+I develop static websites using hugo framework and deploy to Netlify or a hosting service/platform you desire.
+
+# Dynamic & Complex Web Apps
+
+I develop in Ruby on Rails framework
