@@ -1,5 +1,5 @@
 +++
-title = "Web Development"
+title = "Web Dev"
 +++
 
 I use Hugo Framework for Statics websites and Ruby on Rails for Dynamic & Complex Web Applications
