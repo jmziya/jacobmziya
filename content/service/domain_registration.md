@@ -2,7 +2,7 @@
 title = "Domain Reg"
 +++
 
-Get a domain name for **_MwK 15,000.00/year_**
+Get a domain name for **MwK 15,000.00/year**
 
 <!--more-->
 

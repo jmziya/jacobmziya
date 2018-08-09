@@ -12,3 +12,11 @@ Run the below command in the root of the application to create a .gitkeep file w
     touch <empty_directory_name>/.gitkeep
 
 Where _<empty_directory_name>_ is the directory name of the directory that is empty
+
+# Contributing
+
+- hugo
+- git add _(if needed to)_
+- git commit
+- git pull
+- git push
