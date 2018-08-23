@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af6e55b7-8520-4a86-8ecf-897189a7d84e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about/index.html" afterPath="$PROJECT_DIR$/public/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/styles.css" afterPath="$PROJECT_DIR$/public/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.xml" afterPath="$PROJECT_DIR$/public/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/service/domain_registration/index.html" afterPath="$PROJECT_DIR$/public/service/domain_registration/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/service/index.html" afterPath="$PROJECT_DIR$/public/service/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/service/index.xml" afterPath="$PROJECT_DIR$/public/service/index.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/service/page/1/index.html" afterPath="$PROJECT_DIR$/public/service/page/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/service/social_media_advertsing/index.html" afterPath="$PROJECT_DIR$/public/service/social_media_advertsing/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/service/web_development/index.html" afterPath="$PROJECT_DIR$/public/service/web_development/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/service/web_hosting/index.html" afterPath="$PROJECT_DIR$/public/service/web_hosting/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/content/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/data/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/public/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/adsmalawi_screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/adsmalawi_screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/hashtags_italia_screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/hashtags_italia_screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/static/.gitkeep" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -103,158 +99,274 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-iterate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-runtime/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bail/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bowser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ccount/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chain-function/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/character-entities-html4/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/character-entities-legacy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/character-entities/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/character-reference-invalid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/classnames/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/collapse-white-space/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/comma-separated-tokens/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/consolidated-events/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/create-react-class/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-in-js-utils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/detab/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/direction/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/disposables/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dnd-core/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dom-helpers/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esrever/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/exenv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fbjs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/focus-group/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fuzzy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-document/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-window/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gotrue-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gray-matter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-embedded/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-from-parse5/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-has-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-is-body-ok-link/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-is-element/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-parse-selector/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-to-html/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-to-mdast/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-to-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hast-util-whitespace/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hastscript/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/history/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hoist-non-react-statics/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/html-void-elements/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/html-whitespace-sensitive-tag-names/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hyphenate-style-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/immediate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/immutable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inline-style-prefixer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-alphabetical/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-alphanumeric/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-alphanumerical/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-decimal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-empty/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-hexadecimal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-hotkey/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-in-browser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-plain-obj/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-whitespace-character/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-window/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-word-character/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isomorphic-base64/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isomorphic-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jwt-decode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/kebab-case/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/keycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/localforage/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash-es/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/longest-streak/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/markdown-escapes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/markdown-table/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mdast-util-compact/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mdast-util-definitions/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mdast-util-to-hast/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mdast-util-to-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mdurl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/micro-api-client/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/netlify-cms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parse-entities/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/property-information/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-aria-menubutton/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-autosuggest/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-autowhatever/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-datetime/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-datetime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-dnd-html5-backend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-dnd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-dom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-frame-component/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-immutable-proptypes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-modal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-onclickoutside/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-portal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-redux/node_modules/hoist-non-react-statics/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-redux/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-router-dom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-router-redux/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-router/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-scroll-sync/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-sortable-hoc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-split-pane/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-style-proptype/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-textarea-autosize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-themeable/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-themeable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-toggled/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-toggled/preact/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-topbar-progress-indicator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-transition-group/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-waypoint/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/redux-notifications/node_modules/react-transition-group/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/redux-notifications/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/redux-optimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/redux-thunk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/redux/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/rehype-minify-whitespace/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/rehype-parse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/rehype-remark/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/rehype-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/remark-parse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/remark-rehype/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/remark-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/replace-ext/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/resolve-pathname/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sanitize-filename/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/section-iterator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/selection-is-backward/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/semaphore/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/shallow-equal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slate-base64-serializer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slate-dev-logger/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slate-edit-list/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slate-edit-table/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slate-plain-serializer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slate-prop-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slate-react/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slate-soft-break/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/space-separated-tokens/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/state-toggle/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/stringify-entities/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-bom-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/symbol-observable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/teeny-tap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/toml-j0.4/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tomlify-j0.4/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/topbar/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/trim-lines/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/trim-trailing-lines/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/trim/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/trough/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/truncate-utf8-bytes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/type-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unherit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unified/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unist-builder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unist-util-generated/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unist-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unist-util-modify-children/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unist-util-position/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unist-util-remove-position/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unist-util-stringify-position/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unist-util-visit-parents/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unist-util-visit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/utf8-byte-length/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/value-equal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vfile-location/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vfile-message/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vfile/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/warning/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/what-input/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/whatwg-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/x-is-function/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/x-is-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/xtend/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1032" />
+    <option name="x" value="1920" />
+    <option name="y" value="114" />
+    <option name="width" value="1910" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hugo-initio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hugo-initio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hugo-initio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exampleSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacobmziya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="personal_development" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="jacobmziya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jacobmziya" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jacobmziya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jacobmziya" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jacobmziya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jacobmziya" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-initio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../evr_ebrs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -377,15 +489,6 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
@@ -393,9 +496,14 @@
       <envs />
       <method />
     </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
   </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
@@ -431,78 +539,75 @@
       <workItem from="1524135679531" duration="30000" />
       <workItem from="1524204734709" duration="599000" />
       <workItem from="1524212078660" duration="26000" />
+      <workItem from="1534765302015" duration="736000" />
+      <workItem from="1534775209379" duration="578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32232000" />
+    <option name="totallyTimeSpent" value="33546000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <frame x="1920" y="114" width="1910" height="789" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3253205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34913793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33476394" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32045928" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32982087" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34035826" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29540598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29540598" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32982087" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34035826" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/selection-is-backward/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/selection-is-backward/index.d.ts" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/initio/static/css/styles.css" />
-    <entry file="file://$PROJECT_DIR$/themes/initio/layouts/partials/header.html" />
-    <entry file="file://$PROJECT_DIR$/content/service/web_hosting.md">
+    <entry file="file://$PROJECT_DIR$/themes/hugo-initio/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="156">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="11" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="589">
+            <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -514,7 +619,19 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="156">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="11" />
+            <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/initio/static/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/themes/initio/layouts/partials/header.html" />
+    <entry file="file://$PROJECT_DIR$/content/service/web_hosting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="156">
+            <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -525,7 +642,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="130">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -534,16 +651,14 @@
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2600">
-          <caret line="100" column="18" lean-forward="false" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="18" />
+          <caret line="100" column="18" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/service/domain_registration.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -557,7 +672,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="156">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="11" />
+            <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -574,31 +689,19 @@
     <entry file="file://$PROJECT_DIR$/.gitmodules">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-initio/theme.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-initio/images/tn.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/posts/vivamus-lacus-mauris.md" />
     <entry file="file://$PROJECT_DIR$/content/posts/who_will_you_inspire.md" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-initio/layouts/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-initio/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -609,14 +712,14 @@
     <entry file="file://$PROJECT_DIR$/themes/hugo-initio/layouts/partials/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="689">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/netlify.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -627,20 +730,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="130">
-            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -656,7 +749,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="252">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="16" />
+            <caret line="6" selection-start-line="6" selection-end-line="16" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -666,22 +759,20 @@
     <entry file="file://$PROJECT_DIR$/content/technology/test_tech.md" />
     <entry file="file://$PROJECT_DIR$/themes/hugo-initio/layouts/partials/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-156" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-initio/layouts/partials/subheader.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/recentworks.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -689,7 +780,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="168">
-            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="43" />
+            <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="43" />
           </first_editor>
           <second_editor />
         </state>
@@ -699,7 +790,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="84">
-            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -709,7 +800,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="126">
-            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -719,7 +810,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="42">
-            <caret line="17" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
+            <caret line="17" column="18" selection-end-line="24" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -728,14 +819,34 @@
     <entry file="file://$PROJECT_DIR$/themes/hugo-initio/layouts/partials/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="130">
+            <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-initio/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-2349">
+            <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
