@@ -31,12 +31,12 @@ publishDir = "public"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Personal Development"
-    url = "/personal_development/"
-    weight = 3
+    name = "blog"
+    url = "/blog/"
+    weight = 2
 
 [params.disqus]
-    site = "jacobmziya"
+    site = "jacobmziya.disqus.com"
 
 [params.sharethis]
     property = "123456789012345678901234"

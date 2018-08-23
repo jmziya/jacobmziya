@@ -7,23 +7,24 @@
   </url>
   
   <url>
-    <loc>http://lucid-gates-dcfaea.netlify.com/personal_development/the_power_of_a_clean_and_simple_blog/</loc>
+    <loc>http://lucid-gates-dcfaea.netlify.com/blog/the_power_of_a_clean_and_simple_blog/</loc>
     <lastmod>2018-03-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lucid-gates-dcfaea.netlify.com/technology/</loc>
-    <lastmod>2018-03-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucid-gates-dcfaea.netlify.com/personal_development/2018-03-17-forbes-quote-of-the-day-march-17th-2018/</loc>
+    <loc>http://lucid-gates-dcfaea.netlify.com/blog/2018-03-17-forbes-quote-of-the-day-march-17th-2018/</loc>
     <lastmod>2018-03-17T19:29:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lucid-gates-dcfaea.netlify.com/personal_development/who_will_you_inspire/</loc>
+    <loc>http://lucid-gates-dcfaea.netlify.com/blog/who_will_you_inspire/</loc>
     <lastmod>2018-03-12T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lucid-gates-dcfaea.netlify.com/blog/</loc>
+    <lastmod>2018-03-29T12:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -37,12 +38,6 @@
   
   <url>
     <loc>http://lucid-gates-dcfaea.netlify.com/</loc>
-    <lastmod>2018-03-29T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://lucid-gates-dcfaea.netlify.com/personal_development/</loc>
     <lastmod>2018-03-29T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
