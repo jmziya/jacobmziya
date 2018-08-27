@@ -29,10 +29,10 @@ In so doing, this no longer is wishful thinking, it's now an actionable plan.
 
 **4. Move It ** (Exercise)
 
-**5 Become a Bookworm ** (Read)
+**5. Become a Bookworm ** (Read)
 
-**6 Write It Down ** (Journal)
+**6. Write It Down ** (Journal)
 
-\[...to be continued]: I will continue explaining **Step 3, 4, 5, and 6 ** soon gooed people.
+\[...to be continued]: I will continue explaining **Step 3, 4, 5, and 6 ** soon good people.
 
 Stay Blessed!!!
