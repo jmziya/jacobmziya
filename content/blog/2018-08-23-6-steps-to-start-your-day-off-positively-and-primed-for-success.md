@@ -17,6 +17,8 @@ In this step, Roberts says: Shut down the world. Shut down all the existing nois
 
 Meditation will give you a centered start to your day for the other 5 steps. This however takes practice. Therefore, you will really need to do this everyday.
 
+<!--more-->
+
 **2. Say It** (Affirmation)
 
 We all hear motivation speeches that tell us to make affirmations. They keep stating out saying: tell yourself that; "I am rich", "I am healthy." That is okay, but don't say them as lies as most people do.
