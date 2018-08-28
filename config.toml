@@ -24,7 +24,7 @@ publishDir = "public"
     footerEnableContact = true
     footerEnableFollowme = true
     footerEnableTextWidget = false
-    footerEnableFormWidget = false
+    footerEnableFormWidget = true
 
 [[menu.main]]
     name = "home"
@@ -39,7 +39,7 @@ publishDir = "public"
     site = "jacobmziya.disqus.com"
 
 [params.sharethis]
-    property = "123456789012345678901234"
+    property = "5b8511d58e496b00101b7421"
     custom = true
 
 [params.google.analytics]
