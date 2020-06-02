@@ -1,3 +1,6 @@
 [submodule "themes/hugo-initio"]
 	path = themes/hugo-initio
 	url = https://github.com/miguelsimoni/hugo-initio.git
+[submodule "themes/kross-hugo"]
+	path = themes/kross-hugo
+	url = git@github.com:themefisher/kross-hugo.git
