@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on jacobmziyaXYZ | Personal Blog</title>
-    <link>http://examplesite.com/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blog on jacobmziyaXYZ | Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Aug 2018 16:24:48 +0200</lastBuildDate>
     
-	<atom:link href="http://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>6 Steps To Start Your Day Off Positively and Primed for Success</title>
-      <link>http://examplesite.com/blog/2018-08-23-6-steps-to-start-your-day-off-positively-and-primed-for-success/</link>
+      <link>/blog/2018-08-23-6-steps-to-start-your-day-off-positively-and-primed-for-success/</link>
       <pubDate>Thu, 23 Aug 2018 16:24:48 +0200</pubDate>
       
-      <guid>http://examplesite.com/blog/2018-08-23-6-steps-to-start-your-day-off-positively-and-primed-for-success/</guid>
+      <guid>/blog/2018-08-23-6-steps-to-start-your-day-off-positively-and-primed-for-success/</guid>
       <description>Dear good people.
 Hie again.
 I read a book by Robert Kiyosaki titled &amp;ldquo;Change Your Life Before Breakfast&amp;rdquo;.</description>
@@ -24,28 +24,28 @@ I read a book by Robert Kiyosaki titled &amp;ldquo;Change Your Life Before Break
     
     <item>
       <title>The Power of a Clean &amp; Simple Personal Blog</title>
-      <link>http://examplesite.com/blog/the_power_of_a_clean_and_simple_blog/</link>
+      <link>/blog/the_power_of_a_clean_and_simple_blog/</link>
       <pubDate>Thu, 29 Mar 2018 12:00:00 +0000</pubDate>
       
-      <guid>http://examplesite.com/blog/the_power_of_a_clean_and_simple_blog/</guid>
+      <guid>/blog/the_power_of_a_clean_and_simple_blog/</guid>
       <description>A personal blog is your digital portfolio. Ready made for your next employer, client, or partner.</description>
     </item>
     
     <item>
       <title>Forbes Quote of The Day (March 17th, 2018)</title>
-      <link>http://examplesite.com/blog/2018-03-17-forbes-quote-of-the-day-march-17th-2018/</link>
+      <link>/blog/2018-03-17-forbes-quote-of-the-day-march-17th-2018/</link>
       <pubDate>Sat, 17 Mar 2018 19:29:39 +0200</pubDate>
       
-      <guid>http://examplesite.com/blog/2018-03-17-forbes-quote-of-the-day-march-17th-2018/</guid>
+      <guid>/blog/2018-03-17-forbes-quote-of-the-day-march-17th-2018/</guid>
       <description>&amp;ldquo;When you take care of your effort and intention, with a little bit of luck, outcome will follow.</description>
     </item>
     
     <item>
       <title>Who Will You Inspire?</title>
-      <link>http://examplesite.com/blog/who_will_you_inspire/</link>
+      <link>/blog/who_will_you_inspire/</link>
       <pubDate>Mon, 12 Mar 2018 12:00:00 +0000</pubDate>
       
-      <guid>http://examplesite.com/blog/who_will_you_inspire/</guid>
+      <guid>/blog/who_will_you_inspire/</guid>
       <description>Inspire someone today.
 Change their lives without even knowing you are doing so.</description>
     </item>
