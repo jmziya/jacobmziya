@@ -1,8 +1,10 @@
-+++
-date = "2018-03-29T12:00:00-00:00"
-title = "The Power of a Clean & Simple Personal Blog"
-
-+++
+---
+title: "The Power of a Clean & Simple Personal Blog"
+date: "2018-03-29T12:00:00-00:00"
+image: "images/blog/post-3.jpg"
+description: "This is meta description."
+draft: false
+---
 
 A personal blog is your digital portfolio. Ready made for your next employer, client, or partner. 
 

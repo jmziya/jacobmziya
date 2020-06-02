@@ -1,8 +1,10 @@
-+++
-date = "2018-03-12T12:00:00-00:00"
-title = "Who Will You Inspire?"
-
-+++
+---
+title: "Who Will You Inspire?"
+date: "2018-03-12T12:00:00-00:00"
+image: "images/blog/post-6.jpg"
+description: "This is meta description."
+draft: false
+---
 
 Inspire someone today.
 

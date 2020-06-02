@@ -1,25 +1,25 @@
 ---
-layout: blog
 title: 6 Steps To Start Your Day Off Positively and Primed for Success
 date: '2018-08-23T16:24:48+02:00'
+image: "images/blog/post-5.jpg"
+description: "This is meta description."
+draft: false
 ---
 Dear good people.
 
 Hie again.
 
-I read a book by Robert Kiyosaki titled "**Change Your Life Before Breakfast**".
+I read a book by Robert Kiyosaki titled **"Change Your Life Before Breakfast"**.
 
 In it, Robert states the 6 steps that can help you change your life, so I thought I should just share with as a Summary.
 
-**1. Clear Your Mind** (Meditate)
+> 1. Clear Your Mind (Meditate)
 
 In this step, Roberts says: Shut down the world. Shut down all the existing noise. This noise includes, phones, news, your inner voice.
 
 Meditation will give you a centered start to your day for the other 5 steps. This however takes practice. Therefore, you will really need to do this everyday.
 
-<!--more-->
-
-**2. Say It** (Affirmation)
+> 2. Say It (Affirmation)
 
 We all hear motivation speeches that tell us to make affirmations. They keep stating out saying: tell yourself that; "I am rich", "I am healthy." That is okay, but don't say them as lies as most people do.
 
@@ -27,7 +27,7 @@ Make affirmations with action. He says; Instead of saying "Money flows to me eff
 
 In so doing, this no longer is wishful thinking, it's now an actionable plan.
 
-**3. See It** (Visualization)
+> 3. See It (Visualization)
 
 Just as affirmations, don't make Visualization so general.
 
@@ -39,7 +39,7 @@ You have to visualize the steps that will contribute to you achieving that Goal,
 
 You have to see yourself doing it in your mind, and it will be that much easier to accomplish in real life because you've already prepared your mind.
 
-**4. Move It** (Exercise)
+> 4. Move It (Exercise)
 
 Exercise.
 
@@ -49,7 +49,7 @@ Morning Exercise gets the oxygen and blood flowing and releasing endorphins. Thi
 
 Just do some sort of exercise in the morning. Push Ups, Stretches, Jog, etc.
 
-**5. Become a Bookworm** (Read)
+> 5. Become a Bookworm (Read)
 
 Read Books.
 
@@ -63,7 +63,7 @@ You are not changing your life in one morning but building a neural pathway to c
 
 If you are struggling to get through a book, change and get a different book. Authors approach the same topic in different. Maybe the one you are reading is not of your comfort approach.
 
-**6. Write It Down** (Journal)
+> 6. Write It Down (Journal)
 
 Writing your thoughts and intentions has a power. Seeing something in ink makes it real.
 
@@ -73,6 +73,7 @@ There are two approaches to this.
     2. Write about what you're **Grateful** for.
 
 **SUMMARY**
+
 (MINIMUM TIME MAXIMUM IMPACT)
 ------------------------------
 The power of these steps is doing them every single day and in combination. Don't just do 2 steps on one day, and the 4 steps the other day. No! Do all 6 steps everyday. Even if you can spend just 2 mins per step. That's great. You are programming your brain.

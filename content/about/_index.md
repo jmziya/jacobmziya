@@ -1,12 +1,12 @@
 ---
 title: "About"
 description: "This is meta description."
-author_image : "images/about/author.jpg"
+author_image : "images/about/author.png"
 author_signature : "images/about/signature.png"
 draft: false
 ---
 
-Hie, my name is Jacob Mziya. Software Developer & Content Creator.
+Hi! I'm Jacob Mziya. Software Developer & Content Creator.
 
 Currently working as: 
 
