@@ -7,7 +7,7 @@ weight = 10
 
 Hie, my name is Jacob Mziya. Freelancer, & a Full-time Software Developer with <a href="http://www.baobabhealth.org">Baobab Health Trust Organisation</a>, Malawi. I have a beautiful wife and a chubby cute daughter. I don't have a pet yet though. I develop web applications for fun and analyse various system applications. I write short stories, motivational & inspirational articles, and sometimes, I just write for the sake of writing.
 
-![about](../images/mac.jpg)
+![about](../image/mac.jpg)
 
 ### Contact Details
 

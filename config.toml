@@ -1,103 +1,94 @@
-baseURL = "http://lucid-gates-dcfaea.netlify.com/"
+# default configuration
+baseURL = "http://examplesite.com"
 languageCode = "en-us"
-title = "Jacob Mziya"
+summaryLength = "10"
 theme = "kross-hugo"
-publishDir = "public"
+title = "jacobmziyaXYZ | Personal Blog"
 
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+
+
+# menu
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+
+
+# default parameters
 [params]
-    name = "Jacob Mziya"
-    description = "Web Developer | Writer | Social Media Marketer"
-    email = "jacobmziya@gmail.com"
-    phone = "+265 999 478 629"
-    address = "Area 15, Lilongwe, Malawi, Africa"
-    year = 2018
-    background = ""
-    favicon = "images/gt_favicon.png"
-    DateForm = "January 1, 2006"
+home = "Home"
+logo = "images/logo.png"
+# theme color
+theme_color = "#41228e"
+# contact info
+phone = "+265 (0) 999 478 629"
+email = "jacobmziya@gmail.com"
+address = "Area 15, Lilongwe, Malawi"
+# meta description
+author = "Jacob Mziya"
+description = "This is meta description"
+# google analytics
+google_analytics_id = "" # Your ID
+# copyright
+copyright = "Copyright &copy; 2020 [jacobmziyaXYZ](http://jacobmziya.xyz)"
 
-    showSubheader = true
-    showServices = true
-    showRecentWorks = true
-    showDownload = false
-    showClients = false
 
-    footerEnableContact = true
-    footerEnableFollowme = true
-    footerEnableTextWidget = false
-    footerEnableFormWidget = true
+# contact
+[params.contact]
+enable = true
+form_action = "#" # contact form works with : https://formspree.io
 
-[[menu.main]]
-    name = "home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "blog"
-    url = "/blog/"
-    weight = 2
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
 
-[params.disqus]
-    site = "jacobmziya.disqus.com"
-
-[params.sharethis]
-    property = "5b8511d58e496b00101b7421"
-    custom = true
-
-[params.google.analytics]
-    trackerID = "UA-116833696-2"
+# social site
+[[params.social]]
+icon = "ti-facebook"
+URL = "#"
 
 [[params.social]]
-	title = "facebook"
-	url = "https://www.facebook.com/jmziya"
-    icon = "fa-facebook-square"
-    footer = true
-    sharethis = true
-    network = "facebook"
+icon = "ti-instagram"
+URL = "#"
+
 [[params.social]]
-	title = "twitter"
-	url = "https://twitter.com/JacobNow_Izrael"
-    icon = "fa-twitter-square"
-    footer = true
-    sharethis = true
-    network = "twitter"
+icon = "ti-dribbble"
+URL = "#"
+
 [[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/jacobmziya"
-    icon = "fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "google+"
-	url = "https://plus.google.com/+JacobMziyaGP"
-    icon = "fa-google-plus-square"
-    footer = false
-    sharethis = true
-    network = "googleplus"
-[[params.social]]
-	title = "linkedin"
-	url = ""
-    icon = "fa-linkedin-square"
-    footer = false
-    sharethis = true
-    network = "linkedin"
-[[params.social]]
-	title = "tumblr"
-	url = ""
-    icon = "fa-tumblr-square"
-    footer = false
-    sharethis = false
-    network = "tumblr"
-[[params.social]]
-	title = "github"
-	url = "https://github.com/jmziya"
-    icon = "fa-github"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "email"
-	url = "mailto:jacobmziya@gmail.com"
-    icon = "fa-envelope"
-    footer = false
-    sharethis = true
-network = "email"
+icon = "ti-twitter-alt"
+URL = "#"
