@@ -64,6 +64,8 @@ description = "This is meta description"
 google_analytics_id = "UA-116833696-2"
 # copyright
 copyright = "Copyright &copy; 2020 [jacobmziyaXYZ](http://jacobmziya.xyz)"
+# addthis
+addThis = "ra-5ed78463018c3e58"
 
 
 # contact
